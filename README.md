@@ -26,5 +26,8 @@ This is a simple command-line implementation of the classic "Rock-Paper-Scissors
 3. **The game will compare your choice with the computer’s and display the result.**
 4. **You can play multiple rounds until you choose to exit the game.**
 
+## Achievement
+Applied Python fundamentals to design and implement game logic, enhancing skills in user interaction and program flow.
+
 ## Credits
 This project was created following a tutorial by [Tech With Tim](https://youtu.be/NpmFbWO6HPU?feature=shared).
